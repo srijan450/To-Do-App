@@ -33,7 +33,7 @@ function App() {
         })
         setval('');
     }
-
+    
     const edit = (e) => {
         let newEditItem = data.find((elem) => {
             return elem.ID === e;

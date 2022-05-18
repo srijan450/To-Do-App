@@ -1,7 +1,7 @@
 {
   "name": "to-do-app",
   "version": "0.1.0",
-  "homepage": "http://srijan450.github.io/to-do-app",
+  "homepage": "https://srijan450.github.io/to-do-app",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
